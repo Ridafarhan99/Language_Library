@@ -1,0 +1,15 @@
+h2,h1{
+	font-family:Tahoma, Geneva, sans-serif;
+	color:red;
+}
+html{
+	background-image: linear-gradient(to bottom right,SpringGreen,DarkTurquoise);
+	text-align: center;
+	height: 100%;
+}
+p,tr{
+	font-family:"Courier New", Courier, monospace;
+	color:black;
+	margin-left: 150px;
+	margin-right: 150px;
+}
